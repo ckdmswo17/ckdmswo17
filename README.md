@@ -1,7 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckdmswo17)](https://github.com/anuraghazra/github-readme-stats&theme=shadow_green)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckdmswo17&show_icons=true&theme=gret&theme=shadow_green)
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckdmswo17&show_icons=true&hide=contribs,prs&theme=gret&theme=shadow_green)
 <br>
 <a href=""><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
