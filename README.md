@@ -26,7 +26,7 @@
 <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 <br>
 <h2>📚 Studying</h2>
-<a href=""><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/c++%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
 <br>
 <a href=""><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 <br>
