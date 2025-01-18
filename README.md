@@ -1,6 +1,6 @@
 <div align=center>
 
-<b>Hello👋 , I want to be interactive game developer<br>
+<b>Hello👋<br>
 <i>No Pain No Gain</i></b>
 <br>
 <br>
